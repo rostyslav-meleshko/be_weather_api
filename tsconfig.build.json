@@ -1,0 +1,6 @@
+{
+  "extends": "./tsconfig.json",
+  "exclude": [
+    "be_weather_api/node_modules",
+    "test", "dist", "**/*spec.ts"]
+}
